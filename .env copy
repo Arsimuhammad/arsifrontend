@@ -1,0 +1,26 @@
+# NEXT_PUBLIC_API_URL="https://arsi-backend-admin.vercel.app/api/eb90ed1d-f4ce-48e0-ad46-7afd4f3a9773"
+NEXT_PUBLIC_API_URL = "http://localhost:3000/api/5643971a-5627-475d-a3d1-6905dd7866b0/"
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_dml0YWwtamF2ZWxpbi0xOS5jbGVyay5hY2NvdW50cy5kZXYk
+CLERK_SECRET_KEY=sk_test_5sTrLVSPW63fKpSvVNTQKmeb9yb6PMc0aF9bRnSXbG
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+# This was inserted by `prisma init`:
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+DATABASE_URL='mysql://ur6jogwtwy7hmxweha40:pscale_pw_vNKHpY95ag24Of4MI4bmKpZGNYIm52OGVBirzVlPIyO@aws.connect.psdb.cloud/tokoonline?sslaccept=strict'
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME="duki4p5ek"
+CLOUDINARY_APP_UPLOAD_PRESET=tjeh8rjv
+# NEXT_PUBLIC_CLOUDINARY_API_KEY= "946178713515332"
+# CLOUDINARY_API_SECRET= "yQ8N3TZN4dRA0teHNG6LYGk70qI"
+
+
+FRONTEND_STORE_URL=http://localhost:3001
+STRIPE_WEBHOOK_SECRET= whsec_1e808363c41ff46267d0b0386f2e1525576150ba3dc83006620fa4971f619d2a
+STRIPE_API_KEY= sk_test_51NUsdWFQlxCGRUkeB15MTMAPPddmacu6TjkkoCZSgrq0QbuEftescUTBjSoJ0tPhLxCEryC2qsCJLtfFwRNMFRhP00U1ayYQlc
